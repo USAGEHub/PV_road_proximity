@@ -1,8 +1,3 @@
-
-[[_TOC_]]
-
---------------------------------------------------------------------------------------------------------
-
 # Description
 
 The tool determines whether a roof part of known aspect is visible from the surrounding roads or not, within a fixed maximum distance of 50 meters. Closeness is determined via a viewshed analysis based on a set of viewpoints homogeneously distributed along the whole road network of the area of interest and assumes the height of the observer to be 1.80 meters. A roof part is marked as “visible” if at least 20% of its surface is visible according to the viewshed analysis.
